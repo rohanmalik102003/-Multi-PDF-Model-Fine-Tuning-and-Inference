@@ -1,0 +1,12 @@
+streamlit
+torch
+unsloth
+transformers
+datasets
+trl
+pytesseract
+Pillow
+PyMuPDF
+numpy
+logging
+tempfile
